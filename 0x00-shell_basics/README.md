@@ -1,1 +1,1 @@
-This directory is for shell scripting
+This new  directory is for shell scripting
