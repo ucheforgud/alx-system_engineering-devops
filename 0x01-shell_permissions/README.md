@@ -1,0 +1,1 @@
+This is a directory for writing shell permission scripts
